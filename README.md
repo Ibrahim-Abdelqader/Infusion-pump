@@ -2,9 +2,9 @@
 
 ![Image](https://github.com/user-attachments/assets/092e6a33-489a-420c-b7c5-94748cf17c35)
 
-<img src="https://github.com/user-attachments/assets/74a89fc4-ddc7-44c1-8fde-d24d625044af" alt="Flow Control Demo" width="200" />  
-<img src="https://github.com/user-attachments/assets/dcf29b05-12b0-4451-a113-fb090d97c7eb" alt="Flow Control Demo" width="200" />  
-<img src="https://github.com/user-attachments/assets/3c376a1f-1283-4e38-a57c-5abc3e8c59de" alt="Flow Control Demo" width="200" />  
+<img src="https://github.com/user-attachments/assets/74a89fc4-ddc7-44c1-8fde-d24d625044af" alt="Flow Control Demo" width="250" />  
+<img src="https://github.com/user-attachments/assets/dcf29b05-12b0-4451-a113-fb090d97c7eb" alt="Flow Control Demo" width="250" />  
+<img src="https://github.com/user-attachments/assets/3c376a1f-1283-4e38-a57c-5abc3e8c59de" alt="Flow Control Demo" width="250" />  
 
 **Arduino-based system to monitor and control fluid flow using a flow sensor, pump, and LCD display.**  
 *(Developed for "Embedded Systems Project")*  
