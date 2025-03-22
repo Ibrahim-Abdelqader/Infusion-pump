@@ -92,13 +92,13 @@ This project aims to:
 ---  
 
 ## 👥 Team Roles  
-| Member | Role |  
-|--------|------------------------------|  
-| **Ibrahim Abdelkader** (Leader) | Hardware Setup & Integration |  
-| **Mohamed Ehab** | Software Development & Testing |  
-| **Menna Atef** | project Design |  
-| **Nada Mostafa** | Documentation & Report Writing |  
-| **Jana Gamal** | Photographer & Presentation |  
+| Member | Role | LinkedIn |  
+|--------|------------------------------|----------------|  
+| **Ibrahim Abdelkader** (Leader) | Hardware Setup & Integration | [LinkedIn](https://www.linkedin.com/in/ibrahim-abdelqader-93b9b124b/) |  
+| **Mohamed Ehab** | Software Development & Testing | [LinkedIn](https://www.linkedin.com/in/mohamed-ehab-272394323/) |  
+| **Menna Atef** | Project Design | [LinkedIn](https://www.linkedin.com/in/menna-atef-05355b32a/) |  
+| **Nada Mostafa** | Documentation & Report Writing | [LinkedIn](https://www.linkedin.com/in/nada-mostafa-67853b324/) |  
+| **Jana Nour** | Photographer & Presentation | [LinkedIn](https://www.linkedin.com/in/jana-nour-1510bb324/) |  
 
 ---  
 
